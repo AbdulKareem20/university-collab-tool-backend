@@ -54,4 +54,4 @@ To get started with this project, follow these steps:
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name](mailto:abdulkareemstudy@gmail.com).
+For any questions or inquiries, please contact [Abdul Kareem](mailto:abdulkareemstudy@gmail.com).
