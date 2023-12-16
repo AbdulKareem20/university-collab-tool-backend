@@ -2,9 +2,10 @@
 
 Collaborative Management Tool
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D%2012.0.0-brightgreen.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-%3E%3D%206.0.0-brightgreen.svg)](https://www.npmjs.com/)
+[![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.javascript.com/)
+[![MongoDB](https://img.shields.io/badge/database-MongoDB-brightgreen.svg)](https://www.mongodb.com/)
 
 ## Description
 
@@ -24,14 +25,11 @@ Technologies Used:
 Backend: Node.js with Express.js
 Database: MongoDB, using Mongoose for object data modeling
 Authentication: JWT for secure and stateless user authentication
-Frontend: (Details about the frontend technologies if already decided or in progress)
+Frontend: React
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Installation
