@@ -1,6 +1,4 @@
-# Project Name
-
-Collaborative Management Tool
+# Collaborative Management Tool
 
 [![Node.js](https://img.shields.io/badge/node-%3E%3D%2012.0.0-brightgreen.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-%3E%3D%206.0.0-brightgreen.svg)](https://www.npmjs.com/)
