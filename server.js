@@ -10,8 +10,17 @@ connectDB();
 app.use(cors());
 app.use(express.json());
 
-app.use('/api/users',userRoutes);
 
+// app.post("/login" , (req, res,next)=>{
+//     res.send("My API LOGIN");
+// })
+
+// app.post("/register",(req,res,next)=>{
+//     console.log(req.body)
+// })
+
+
+app.use('/api/users',userRoutes);
 // test Route:
 app.get('/',(req,res)=>{
     res.send('UCTB is up and running');
